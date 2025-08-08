@@ -5,4 +5,4 @@ For responsiveness, the grid dynamically adjusts the number of columns (col-lg-3
 # Desktop image
 ![screenshot](desktop.png)
 # Mobile image
-![screenshot](desktop.png)
+![screenshot](mobile.png)
